@@ -12,6 +12,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.spec-workflow
 
 #Ignore generated outputs
 outputs/

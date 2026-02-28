@@ -224,7 +224,7 @@ requirements-txt = [
     "langchain-cohere",
     "langchain-dashscope",
     "langchain-fireworks",
-    "langchain-gigachat",
+    # "langchain-gigachat",  # 暂时移除：依赖 langchain-core>=0.3,<0.4，与主依赖 langchain-core>=1.0.0 冲突
     "langchain-google-genai",
     "langchain-google-vertexai",
     "langchain-groq",
